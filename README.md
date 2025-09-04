@@ -1,4 +1,8 @@
-# NavyCraft2-Lite
+# NavyCraft3
+
+THIS IS AN UPDATED VERSION OF NAVYCRAFT FOR 1.21 and Above! I might maintain this further but no promises
+(Still in dev if you dont see any releases) 
+
 Public release version of the popular NavyCraft plugin. Build, drive and fight with custom ships, airplanes, tanks, and submarines! This project works on making NavyCraft more user-friendly and open for server-operators to apply to their own server. We hope to make the plugin more stable and more configurable for our users.
 
 Help support this project and keep up to date at our GoFundMe page
